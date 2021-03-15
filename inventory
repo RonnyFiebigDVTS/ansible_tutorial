@@ -1,5 +1,5 @@
 [web_servers]
-server1 apache_package=apache2 php=libapache2-mod-php
+server1 apache_package=apache2 php=libapache2-mod-php mariadb_package=mariadb
 
 [file_servers]
-server2 apache_package=apache2 php=libapache2-mod-php
+server2 apache_package=apache2 php=libapache2-mod-php mariadb_package=mariadb
